@@ -1,0 +1,3 @@
+main: io.github.ktasra.SamplePlugin
+name: ${project.artifactId}
+version: ${project.version}
